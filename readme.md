@@ -22,3 +22,4 @@
 - レイアウトの調整が、細々と手間がかかると感じた。
 - 詰まった部分を検索して調べたり、ChatGPTと壁打ちしながら、作りました。
 ChatGPTも間違ったことを言ったりしてくることもありましたが、なんだかんだで、頼りになる友達みたいな関係になっておりますwww
+<img width="1437" alt="top_page_capture" src="https://github.com/user-attachments/assets/5134a445-98f7-494a-83cd-926c571a1cb4" />
